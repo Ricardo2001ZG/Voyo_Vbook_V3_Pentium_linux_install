@@ -37,14 +37,23 @@ You can download this files on
 <a name="real article"></a>
 
 Now let's begin the real article.
+
 <strong>Prepare:</strong>
+
 1、A Voyo Vbook V3 Pentium laptop.
+
 2、One mug(must <strong>big</strong> enouth).
+
 3、A bag of instant coffee.
+
 4、Low-speed wireless network.(In fact,as fast as you can.)
+
 5、debian-9.3.0-amd64-netinst.iso <a herf="https://www.debian.org/distrib/netinst">Download</a>
+
 6、A U Disk.
+
 7、A <strong>wired</strong> keyboard(<strong>important</strong>)!!!
+
 8、Your body and your <strong>brain</strong>.
 <HR>
 
