@@ -93,8 +93,11 @@ Now let's begin the real article.
 <strong>Real real article!!!</strong>
 First,you have to use your Voyo Vbook V3 Pentium laptop to open
 <a href="https://zhuanlan.zhihu.com/p/33841058">Voyo V3 奔腾版 debian9最小化安装实战</a>
-(This article's chinese version) or open <a href="https://github.com/Ricardo2001ZG/Voyo_Vbook_V3_Pentium_linux_install">Gayheb/Ricardo2001ZG/Voyo_Vbook_V3_Pentium_linux_install</a>(Oh I forgot you have opened it and reading it now.)
+(This article's chinese version)
+or
+open <a href="https://github.com/Ricardo2001ZG/Voyo_Vbook_V3_Pentium_linux_install">Gayheb/Ricardo2001ZG/Voyo_Vbook_V3_Pentium_linux_install</a>(Oh I forgot you have opened it and reading it now.)
 Now!Download the bios file from <a href="#download">the front of this article</a> or clone this project!
+
 After that,run the file <strong>fbios.cmd</strong> and <strong>run as Administrator</strong>!
 
 ![run_as_administrator](https://raw.githubusercontent.com/Ricardo2001ZG/Voyo_Vbook_V3_Pentium_linux_install/master/image/run_as_administrator.png)
