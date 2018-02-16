@@ -150,7 +150,7 @@ And start installing your Debian at the same time.
 When you install your Debian,
 the system will ask you to provide the drivers of the Wireless LAN.
 
-For this situation,you can download <a href="https://packages.debian.org/sid/firmware-iwlwifi"><strong>firmware-iwlwifi.deb</strong> and <strong>put it into the firmware folder</strong>.
+For this situation,you can download <a href="https://packages.debian.org/sid/firmware-iwlwifi"><strong>firmware-iwlwifi.deb</strong></a> and <strong>put it into the firmware folder</strong>.
 
 <strong>What?You ask me about the U disk?
 
