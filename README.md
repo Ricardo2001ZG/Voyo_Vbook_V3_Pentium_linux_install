@@ -120,15 +120,17 @@ but I haven't test PS/2 wired keyboard.)
 
 Click <strong>Del</strong> to enter the bios.
 
-Find <strong>Chipset-South Bridge-OS Selection</strong>.
+Find <strong>Chipset-South Bridge-OS Selection</strong> to change settings.
 
 <strong><s>FBI</s> Warnning!
 
 When you change to "Intel linux" mode,
 
-You can use the keyboard of the laptop.
+You can't use the keyboard of the laptop after saving the settings.
 
-Use your wired keyboard.</strong>
+Use your wired keyboard.
+
+When you change to "Windows" mode you can use it normally.</strong>
 
 ![Chipset-South_Bridge](https://raw.githubusercontent.com/Ricardo2001ZG/Voyo_Vbook_V3_Pentium_linux_install/master/image/Chipset-South_Bridge.jpg)
 
