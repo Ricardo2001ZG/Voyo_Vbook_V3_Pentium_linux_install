@@ -207,7 +207,6 @@ Add these words into the file:
         wpa-ssid "your-ssid"
 
         wpa-psk "your-password"
-`
 
 Such as this picture.After save the settings you have to reboot it.
 
@@ -233,7 +232,7 @@ miao@ricardo2001zg.moe
 
 <strong>If I didn't reply you in three days please send another email to me.</strong>
 
-Finished at 3:07 on Feb.17th,2018(UTC+8,China).
+Finished at 3:08 on Feb.17th,2018(UTC+8,China).
 <HR>
 Ahahahaha!
 Real real end!
