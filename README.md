@@ -1,5 +1,4 @@
-﻿# How to install debian 9 on Voyo Vbook V3 Pentium linux
-
+﻿# How to install debian 9 on Voyo Vbook V3 Pentium
 
 1、story
 
