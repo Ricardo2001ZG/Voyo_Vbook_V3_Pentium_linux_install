@@ -135,6 +135,33 @@ When you change to "Windows" mode you can use it normally.</strong>
 ![Chipset-South_Bridge](https://raw.githubusercontent.com/Ricardo2001ZG/Voyo_Vbook_V3_Pentium_linux_install/master/image/Chipset-South_Bridge.jpg)
 
 ![South_Bridge-OS_Selection](https://raw.githubusercontent.com/Ricardo2001ZG/Voyo_Vbook_V3_Pentium_linux_install/master/image/South_Bridge-OS_Selection.jpg)
+
+<HR>
+
+After changing settings and save them,
+you can use your <strong>big enouth</strong> mug
+and bag of instant coffee to make 
+a cup of coffee.
+
+Or you can open <a href="https://www.bilibili.com/bangumi/play/ep95840">Is the order a rabbit?</a>.
+
+And start installing your Debian at the same time.
+
+When you install your Debian,
+the system will ask you to provide the drivers of the Wireless LAN.
+
+For this situation,you can download <a href="https://packages.debian.org/sid/firmware-iwlwifi"><strong>firmware-iwlwifi.deb</strong> and <strong>put it into the firmware folder</strong>.
+
+<strong>What?You ask me about the U disk?
+
+Don't you use it to make boot disk of the Debian-install-system?</strong>
+
+
+
+
+![firmware_folder](https://raw.githubusercontent.com/Ricardo2001ZG/Voyo_Vbook_V3_Pentium_linux_install/master/image/firmware_folder.png)
+
+<HR>
 
 
 
