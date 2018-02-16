@@ -134,7 +134,7 @@ When you change to "Windows" mode you can use it normally.</strong>
 
 ![Chipset-South_Bridge](https://raw.githubusercontent.com/Ricardo2001ZG/Voyo_Vbook_V3_Pentium_linux_install/master/image/Chipset-South_Bridge.jpg)
 
-![South_Bridge-OS_Selection](https://raw.githubusercontent.com/Ricardo2001ZG/Voyo_Vbook_V3_Pentium_linux_install/master/image/South_Bridge-OS_Selection,jpg)
+![South_Bridge-OS_Selection](https://raw.githubusercontent.com/Ricardo2001ZG/Voyo_Vbook_V3_Pentium_linux_install/master/image/South_Bridge-OS_Selection.jpg)
 
 
 
