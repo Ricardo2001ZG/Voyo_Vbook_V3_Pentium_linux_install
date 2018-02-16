@@ -179,7 +179,9 @@ This command will show the name of your Wireless LAN
 ![LAN_name](https://raw.githubusercontent.com/Ricardo2001ZG/Voyo_Vbook_V3_Pentium_linux_install/master/image/LAN_name.jpg)
 
 `
+
 root@balabalabala:~#ip link set wlp1s0 up
+
 `
 
 To make your Wireless LAN active,
@@ -188,14 +190,19 @@ Then you can use
 
 `
 root@balabalabala:~#iw dev wlp1s0 scan >> result.hentai
+
 root@balabalabala:~#nano result.hentai
+
 `
 
 or
 
 `
+
 root@balabalabala:~#iwlist scanning >>result.hentai
+
 root@balabalabala:~#nano result.hentai
+
 `
 
 to find out the SSID of the wireless networks you need to contact.
@@ -205,10 +212,15 @@ Then use <strong>nano</strong> to edit the file <strong>/etc/network/interfaces<
 Add these words into the file:
 
 `
+
 auto wlp1s0
+
 iface wlp1s0 inet dhcp
+
         wpa-ssid "your-ssid"
+
         wpa-psk "your-password"
+
 `
 
 Such as this picture.After save the settings you have to reboot it.
