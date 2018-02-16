@@ -35,6 +35,7 @@ You can download this files on
 <a href="https://pan.baidu.com/s/1dGkSaD7">百度网盘:Apollo Lake AMI BIOS for linux.zip</a>
 <HR>
 <a name="real article"></a>
+
 Now let's begin the real article.
 <strong>Prepare:</strong>
 1、A Voyo Vbook V3 Pentium laptop.
