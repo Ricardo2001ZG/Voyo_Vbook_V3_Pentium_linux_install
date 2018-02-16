@@ -146,7 +146,7 @@ you can use your <strong>big enouth</strong> mug
 and bag of instant coffee to make 
 a cup of coffee.
 
-Or you can open <a href="https://www.bilibili.com/bangumi/play/ep95840">Is the order a rabbit?</a>.
+Or you can open <a href="https://www.bilibili.com/bangumi/play/ep95840"><strong>Is the order a rabbit?</strong></a>.
 
 And start installing your Debian at the same time.
 
@@ -174,6 +174,7 @@ The next part is about setting your Wireless LAN in command environment.
 `
 root@balabalabala:~#iwconfig
 `
+
 This command will show the name of your Wireless LAN
 
 ![LAN_name](https://raw.githubusercontent.com/Ricardo2001ZG/Voyo_Vbook_V3_Pentium_linux_install/master/image/LAN_name.jpg)
@@ -181,28 +182,36 @@ This command will show the name of your Wireless LAN
 `
 root@balabalabala:~#ip link set wlp1s0 up
 `
+
 To make your Wireless LAN active,
 
 Then you can use 
+
 `
 root@balabalabala:~#iw dev wlp1s0 scan >> result.hentai
 root@balabalabala:~#nano result.hentai
 `
+
 or
+
 `
 root@balabalabala:~#iwlist scanning >>result.hentai
 root@balabalabala:~#nano result.hentai
 `
+
 to find out the SSID of the wireless networks you need to contact.
 
 Then use <strong>nano</strong> to edit the file <strong>/etc/network/interfaces</strong>
+
 Add these words into the file:
+
 `
 auto wlp1s0
 iface wlp1s0 inet dhcp
         wpa-ssid "your-ssid"
         wpa-psk "your-password"
 `
+
 Such as this picture.After save the settings you have to reboot it.
 
 
