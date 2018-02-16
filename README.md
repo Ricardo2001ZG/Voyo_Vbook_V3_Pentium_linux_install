@@ -236,7 +236,7 @@ miao@ricardo2001zg.moe
 
 <strong>If I didn't reply you in three days please send another email to me.</strong>
 
-Finished at 2:30 on Feb.17th,2018(UTC+8,China).
+Finished at 2:50 on Feb.17th,2018(UTC+8,China).
 <HR>
 Ahahahaha!
 Real real end!
