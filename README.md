@@ -1,9 +1,51 @@
 # How to install debian 9 on Voyo Vbook V3 Pentium linux
+
+1?story
+2?<a href="#real article">real article</a>
+<HR>
 Yesterday I have found the unlock bios files of Voyo Vbook V3 Pentium.Because of this bios,I can install any linux distributions on this laptop.
+
 Last mouth,I found it on Voyo's english website.
+
 ![voyo_english_website](https://raw.githubusercontent.com/Ricardo2001ZG/Voyo_Vbook_V3_Pentium_linux_install/master/image/voyo_english_website.png)
+
 In fact,there is no this file on its chinese website.(It looks like this year's Chinese Spring Festival Gala[2018].)
+
 But when I click the link of "unlock bios",I found the file have been deleted.
+
 ![dropbox_delete_files](https://raw.githubusercontent.com/Ricardo2001ZG/Voyo_Vbook_V3_Pentium_linux_install/master/image/dropbox_delete_files.png)
-Luckily,yesterday I found a file on http://freaktab.com/forum/tv-player-support/intel-based-tv-players/voyo-mini-pc/679508-voyo-v1-vmac-bios-upgrade
-<a target="_blank" href="http%3A//freaktab.com/forum/tv-player-support/intel-based-tv-players/voyo-mini-pc/679508-voyo-v1-vmac-bios-upgrade" data-draft-node="block" data-draft-type="link-card" class="LinkCard LinkCard--noImage" data-za-detail-view-id="172"><span class="LinkCard-content"><span><span class="LinkCard-title" data-text="true">Voyo (V1) VMac BIOS upgrade</span><span class="LinkCard-meta"><span style="display:inline-flex;align-items:center;">&#8203;<svg class="Zi Zi--InsertLink" fill="currentColor" viewBox="0 0 24 24" width="17" height="17"><path d="M6.77 17.23c-.905-.904-.94-2.333-.08-3.193l3.059-3.06-1.192-1.19-3.059 3.058c-1.489 1.489-1.427 3.954.138 5.519s4.03 1.627 5.519.138l3.059-3.059-1.192-1.192-3.059 3.06c-.86.86-2.289.824-3.193-.08zm3.016-8.673l1.192 1.192 3.059-3.06c.86-.86 2.289-.824 3.193.08.905.905.94 2.334.08 3.194l-3.059 3.06 1.192 1.19 3.059-3.058c1.489-1.489 1.427-3.954-.138-5.519s-4.03-1.627-5.519-.138L9.786 8.557zm-1.023 6.68c.33.33.863.343 1.177.029l5.34-5.34c.314-.314.3-.846-.03-1.176-.33-.33-.862-.344-1.176-.03l-5.34 5.34c-.314.314-.3.846.03 1.177z" fill-rule="evenodd"></path></svg></span>freaktab.com</span></span><span class="LinkCard-imageCell"><div class="LinkCard-image LinkCard-image--default"><svg class="Zi Zi--Browser" fill="currentColor" viewBox="0 0 24 24" width="32" height="32"><path d="M11.991 3C7.023 3 3 7.032 3 12s4.023 9 8.991 9C16.968 21 21 16.968 21 12s-4.032-9-9.009-9zm6.237 5.4h-2.655a14.084 14.084 0 0 0-1.242-3.204A7.227 7.227 0 0 1 18.228 8.4zM12 4.836A12.678 12.678 0 0 1 13.719 8.4h-3.438A12.678 12.678 0 0 1 12 4.836zM5.034 13.8A7.418 7.418 0 0 1 4.8 12c0-.621.09-1.224.234-1.8h3.042A14.864 14.864 0 0 0 7.95 12c0 .612.054 1.206.126 1.8H5.034zm.738 1.8h2.655a14.084 14.084 0 0 0 1.242 3.204A7.188 7.188 0 0 1 5.772 15.6zm2.655-7.2H5.772a7.188 7.188 0 0 1 3.897-3.204c-.54.999-.954 2.079-1.242 3.204zM12 19.164a12.678 12.678 0 0 1-1.719-3.564h3.438A12.678 12.678 0 0 1 12 19.164zm2.106-5.364H9.894A13.242 13.242 0 0 1 9.75 12c0-.612.063-1.215.144-1.8h4.212c.081.585.144 1.188.144 1.8 0 .612-.063 1.206-.144 1.8zm.225 5.004c.54-.999.954-2.079 1.242-3.204h2.655a7.227 7.227 0 0 1-3.897 3.204zm1.593-5.004c.072-.594.126-1.188.126-1.8 0-.612-.054-1.206-.126-1.8h3.042c.144.576.234 1.179.234 1.8s-.09 1.224-.234 1.8h-3.042z"></path></svg></div></span></span></a>
+
+Luckily,yesterday I found a file on <a href="http://freaktab.com/forum/tv-player-support/intel-based-tv-players/voyo-mini-pc/679508-voyo-v1-vmac-bios-upgrade">Voyo (V1) VMac BIOS upgrade</a>.
+
+![user_from_freaktab](https://raw.githubusercontent.com/Ricardo2001ZG/Voyo_Vbook_V3_Pentium_linux_install/master/image/user_from_freaktab.png)
+
+It's interesting that this file include V1 Mac,V3 and V3 pro's unlock bios files.
+
+![files_in_unlock_bios_zip](https://raw.githubusercontent.com/Ricardo2001ZG/Voyo_Vbook_V3_Pentium_linux_install/master/image/files_in_unlock_bios_zip.png)
+
+You can download this files on 
+
+<strong>(These files have been included in this project,it's not necessary to download.)</strong>
+
+<strong>International Users Recommend:</strong>
+<a href="https://www.mediafire.com/file/21b6v1rj319248m/Apollo+Lake+AMI+BIOS+for+linux.zip">Mediafire Apollo Lake AMI BIOS for linux.zip</a>
+
+<strong>Chinese Users Recommend:</strong>
+<a href="https://pan.baidu.com/s/1dGkSaD7">????:Apollo Lake AMI BIOS for linux.zip</a>
+
+<HR>
+<a name="real article"></a>
+Now let's begin the real article.
+
+<strong>Prepare:</strong>
+1?A Voyo Vbook V3 Pentium laptop.
+2?One mug(must <strong>big</strong> enouth).
+3?A bag of instant coffee.
+4?Low-speed wireless network.(In fact,as fast as you can.)
+5?debian-9.3.0-amd64-netinst.iso <a herf="https://www.debian.org/distrib/netinst">Download</a>
+6?A U Disk.
+7?A <strong>wired</strong> keyboard(<strong>important</strong>)!!!
+8?Your body and your <strong>brain</strong>.
+<HR>
+
+![](https://raw.githubusercontent.com/Ricardo2001ZG/Voyo_Vbook_V3_Pentium_linux_install/master/image/)
