@@ -91,6 +91,7 @@ Now let's begin the real article.
 <HR>
 
 <strong>Real real article!!!</strong>
+
 First,you have to use your Voyo Vbook V3 Pentium laptop to open
 <a href="https://zhuanlan.zhihu.com/p/33841058">Voyo V3 奔腾版 debian9最小化安装实战</a>
 (This article's chinese version)
@@ -110,6 +111,29 @@ After that,run the file <strong>fbios.cmd</strong> and <strong>run as Administra
 
 Reboot the laptop and then you will find that you have update the bios succeed.
 <HR>
+It's time to show your brain!Ohno,There is a mistake.
+
+Show your A wired keyboard!
+
+(In my test,USB wired keyboard can be used,
+but I haven't test PS/2 wired keyboard.)
+
+Click <strong>Del</strong> to enter the bios.
+
+Find <strong>Chipset-South Bridge-OS Selection</strong>.
+
+<strong><s>FBI</s> Warnning!
+
+When you change to "Intel linux" mode,
+
+You can use the keyboard of the laptop.
+
+Use your wired keyboard.</strong>
+
+![Chipset-South_Bridge](https://raw.githubusercontent.com/Ricardo2001ZG/Voyo_Vbook_V3_Pentium_linux_install/master/image/Chipset-South_Bridge.jpg)
+
+![South_Bridge-OS_Selection](https://raw.githubusercontent.com/Ricardo2001ZG/Voyo_Vbook_V3_Pentium_linux_install/master/image/South_Bridge-OS_Selection,jpg)
+
 
 
 ![](https://raw.githubusercontent.com/Ricardo2001ZG/Voyo_Vbook_V3_Pentium_linux_install/master/image/)
